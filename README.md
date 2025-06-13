@@ -10,7 +10,7 @@ The goal would be to add clarity to the black box nature of large language model
 
 ## Project Structure
 
-
+```
 ├── salary_data.csv         # Dataset from Kaggle
 ├── outputs/
 │   ├── salary_vs_experience.png
@@ -18,7 +18,7 @@ The goal would be to add clarity to the black box nature of large language model
 ├── utils.py        # Tools necessary for Univariate Linear Regression
 ├── salary_v_experience_model.py        # Application of Univariate Linear Regression
 └── README.md                  # You are here
-
+```
 
 ## Dataset
 
