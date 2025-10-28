@@ -22,7 +22,7 @@ The goal would be to add clarity to the black box nature of large language model
 
 ## Dataset
 
-The publicly available Salary vs Experience dataset available at the following URL (https://www.kaggle.com/datasets/krishnaraj30/salary-prediction-data-simple-linear-regression)) was used to train the model. Within it lies continuous numeric features that are ideal for univariate linear regressions.
+The publicly available Salary vs Experience dataset available at the following URL (https://www.kaggle.com/datasets/krishnaraj30/salary-prediction-data-simple-linear-regression) was used to train the model. Within it lies continuous numeric features that are ideal for univariate linear regressions.
 
 
 ## Training Configuration
